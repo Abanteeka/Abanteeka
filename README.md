@@ -22,5 +22,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=Abanteeka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abanteeka&icon=5&color=3)](https://visitcount.itsvg.in)
 ![Visitor Count](https://profile-counter.glitch.me/{Abanteeka}/count.svg)
