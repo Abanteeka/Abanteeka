@@ -23,3 +23,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abanteeka&icon=5&color=3)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
